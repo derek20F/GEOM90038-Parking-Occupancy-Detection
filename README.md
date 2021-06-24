@@ -14,3 +14,7 @@ The detailed parking occupancy detection processes are listed below:
 6. Use the coordinates of the parking slots to crop the images of the whole parking area into multiple images of individual parking slot
 7. Feed the images of individual parking slot into a classifier to predict if a parking slot is empty or occupied
 8. Annotate the prediction results back to the original image of the whole parking area for visualisation
+
+
+
+Please find more details in the report pdf file.
