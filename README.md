@@ -7,7 +7,7 @@
 *	Implemented ResNet as a classifier to predict the occupancy within each parking slot.
 
 
-### D
+### Description
 
 In this project, I implement a parking occupancy detection system for CCTV images. First, an object detection model is trained to detect the vehicles in the parking area. Then, the coordinates of individual parking slots are found by clustering the detected vehicles using spatio-temporal analysis. Lastly, a ResNet is used as a classifier to predict the occupancy within each parking slot. 
 
