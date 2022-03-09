@@ -6,6 +6,7 @@
 *	Clustered the detected vehicles using spatio-temporal analysis to find the coordinates of individual parking slots
 *	Implemented ResNet as a classifier to predict the occupancy within each parking slot.
 
+---
 
 ### Description
 
